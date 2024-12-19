@@ -1,0 +1,9 @@
+body {
+    background-image: url("/assets/img/fincanes_Img.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.div1 {
+    background-color: rgb(218, 213, 213);
+}
