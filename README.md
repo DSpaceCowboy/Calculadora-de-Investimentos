@@ -1,0 +1,1 @@
+Calculadora de investimentos por aportes periódicos (anuais), feita para um trabalho acadêmico. Ainda em processo de atualização, como diferentes tipos de investimentos e opção de investimento mensal.
